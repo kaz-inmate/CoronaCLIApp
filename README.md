@@ -15,7 +15,7 @@ CLI application to get the worlwide and country specefic details regarding the C
 ```
 1. There are 2 commands available.
 
-2. Run corona.py --total form the terminal to get the worldwide data.
+2. Run corona.py --total from the terminal to get the worldwide data.
 
 3. Run corona.py --get [iso country code] to get the data of particular country.
 
